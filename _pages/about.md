@@ -43,7 +43,7 @@ Services
 
 Useful Links
 ======
-- [TH-CPL(清华大学计算机学科推荐学术会议和期刊列表)](https://github.com/bugaosuni59/TH-CPL)
+- [TH-CPL(清华大学计算机学科推荐学术会议和期刊列表)](http://jiahangok.github.io/files/TH-CPL.pdf)
 - [Upcoming Conferences](http://ct.cswu.me/)
 - [Networking Conferences Statistics](https://sites.cs.ucsb.edu/~almeroth/conf/stats/)
 - [Call4Papers](http://www.call4papers.cn:8080/index.html)
