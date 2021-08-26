@@ -21,13 +21,16 @@ My research interests include the Internet of Things (IoTs), Edge Computing.
 
 News
 ======
+- [2021/08] Our paper **”Edge computing technologies for streaming video analytics”** was accepted by SCIENCE CHINA Information Sciences.
 - [2020/12] Our paper **”EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision”** was accepted by INFOCOM 2021.
 - [2020/06] I received B.E. degree from Beijing Jiaotong University.
 - [2020/06] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
 
 Publications
 ======
-1. [<span style="color: red;font-weight: bold;">IEEE INFOCOM’21, CCF A</span>] Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, “EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision“, In Proceedings of the IEEE International Conference on Computer Communications, Vancouver, Canada, May 10 - May 13, 2021. [\[Paper\]](http://jiahangok.github.io/files/EdgeDuet.pdf)  [\[Slide\]](http://jiahangok.github.io/files/edgeduet_slide.pdf) [\[Bibtex\]](http://jiahangok.github.io/files/edgeduet.txt)
+- [<span style="color: red;font-weight: bold;">SCIENCE CHINA Information Sciences, CCF A</span>] Zheng Yang, Xiaowu He, **Jiahang Wu**, Xu Wang, Yi Zhao, “Edge computing technologies for streaming video analytics“, In SCIENCE CHINA Information Sciences. [\[Paper\]]()  [\[Slide\]]() [\[Bibtex\]]()
+- [<span style="color: red;font-weight: bold;">IEEE INFOCOM’21, CCF A</span>] Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, “EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision“, In Proceedings of the IEEE International Conference on Computer Communications, Vancouver, Canada, May 10 - May 13, 2021. [\[Paper\]](http://jiahangok.github.io/files/EdgeDuet.pdf)  [\[Slide\]](http://jiahangok.github.io/files/edgeduet_slide.pdf) [\[Bibtex\]](http://jiahangok.github.io/files/edgeduet.txt)
+
 
 Honors and Awards
 ======
